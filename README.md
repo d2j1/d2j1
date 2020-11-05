@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - Mysql
 
 
-## 📝 [Resume](https://drive.google.com/file/d/1PKyHFwHygA1PC4srt20UR5RXyMeDOVB6/view?usp=sharing)
+## 📝 [Resume](https://drive.google.com/file/d/1Q2Ya8c2PEvvTocpOZOeeKhL-m7rh1dg8/view?usp=sharing)
