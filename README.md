@@ -5,8 +5,6 @@ Hi, I'm Dhananjay a beginner Web Developer 💻 from India 🏞.
 
 Here are some ideas to get you started:
 -->
-
-- 🔭 I’m currently working on NReader (capstone project of web development bootcamp)
 - 🌱 I’m currently learning Basic Data Structure and Algorithms.
 
 ### Languages and Tools
