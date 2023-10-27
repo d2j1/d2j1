@@ -1,20 +1,20 @@
 # Hey there 👋✌
-Hi, I'm Dhananjay a beginner Web Developer 💻 from India 🏞.
+ I'm Dhananjay a backend developer.
 <!--
 **dhanujadhav1/dhanujadhav1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning Basic Data Structure and Algorithms.
+- 🌱 I’m currently learning DSA and Enhancing my proficiency as a backend developer.
 
 ### Languages and Tools
 - Java
-- JavaScript
-- Html5
-- CSS3
-- Hibernate 
+- Spring Core
+- Spring Boot 
+- Spring Data JPA
+- MySQL 
 - Git
-- Mysql
+- DSA
 
 
 ## 📝 [Resume](https://drive.google.com/file/d/1Q2Ya8c2PEvvTocpOZOeeKhL-m7rh1dg8/view?usp=sharing)
