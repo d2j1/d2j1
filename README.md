@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - MySQL 
 - Git
 - DSA
+- Eclipse - Spring Tool Suit
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 ## 📝 [Resume](https://drive.google.com/file/d/1Q2Ya8c2PEvvTocpOZOeeKhL-m7rh1dg8/view?usp=sharing)
