@@ -1,5 +1,5 @@
 # Hey there 👋✌
- I'm Dhananjay a backend developer.
+ I'm Dhananjay a Java and Spring boot backend developer.
 <!--
 **dhanujadhav1/dhanujadhav1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
