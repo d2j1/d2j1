@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning DSA and Enhancing my proficiency as a backend developer.
+- 🌱 Currently learning DSA and Enhancing my proficiency as a backend developer.
 
 ### Languages and Tools
 - Java
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,git,maven,mysql,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,git,maven,mysql,postman,javascript)](https://skillicons.dev)
 
 
 <!-- ## 📝 [Resume](https://drive.google.com/file/d/1Q2Ya8c2PEvvTocpOZOeeKhL-m7rh1dg8/view?usp=sharing) -->
