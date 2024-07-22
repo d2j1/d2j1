@@ -1,5 +1,5 @@
 # Hey there 👋✌
- I'm Dhananjay Java and Spring boot backend developer.
+ I'm Dhananjay, a Java and Spring boot backend developer.
 <!--
 **dhanujadhav1/dhanujadhav1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -8,16 +8,12 @@ Here are some ideas to get you started:
 - 🌱 Currently learning DSA and Enhancing my proficiency as a backend developer.
 
 ### Languages and Tools
-- Java
-- Spring Core
-- Spring Boot 
-- Spring Data JPA
+- Java, JavaScript
+- Spring Core, Boot, Data JPA
 - MySQL 
 - Git
 - DSA
-- Eclipse - Spring Tool Suit
-
-
+- Eclipse, IntelliJ IDEA, Postman, Maven
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,git,maven,mysql,postman)](https://skillicons.dev)
 
